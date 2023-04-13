@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ThucHanh2</string>
+    <string-array name="loaisach">
+        <item>Giao duc</item>
+        <item>Khoa hoc</item>
+        <item>Doi song</item>
+        <item>Truyen</item>
+    </string-array>
+</resources>
